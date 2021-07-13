@@ -14,6 +14,23 @@ main{
 
 }
 
+.container{
+    background-color: #FFFFFF
+    ;
+    width: 870px;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 21px;
+    /* height: 679px; */
+}
+
+hr{
+    border: 1px solid #D1D1D1;
+    margin-bottom: 27px;
+
+}
+
+
 /* ..............
 navigation menu
 ............. */
@@ -54,21 +71,6 @@ header  nav ul li img{
 header  nav ul li a{
     color: #fff;
     text-decoration: none;
-}
-.container{
-    background-color: #FFFFFF
-    ;
-    width: 870px;
-    padding: 30px;
-    border-radius: 5px;
-    margin: 21px;
-    /* height: 679px; */
-}
-
-hr{
-    border: 1px solid #D1D1D1;
-    margin-bottom: 27px;
-
 }
 
 /* top players style */
